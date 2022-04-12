@@ -13,5 +13,6 @@ Shoutouts!
 * To Nikki Petersen for her encouragement and advice on starting this journey
 * To my daughter Juice, for being so supportive and helpful and fired up about this big step.
 
-GitHub is a bit confusing
-I need to slow down when navigating so I don't miss steps.
+* GitHub is a bit confusing
+* I need to slow down when navigating so I don't miss steps.
+* Test changes
